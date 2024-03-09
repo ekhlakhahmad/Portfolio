@@ -1,0 +1,62 @@
+[
+  {
+    "name": "QR_Code_Gen",
+    "desc": "JavaScript QR Code Generator which will generate QR Code in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://ekhlakh-qr-code-generator.netlify.app/",
+      "code": "https://github.com/ekhlakhahmad/QR-CODE-GENERATOR"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ekhlakh-personal-portfolio.netlify.app/",
+      "code": "https://github.com/ekhlakhahmad/Personal-Portfolio"
+    }
+  },
+  {
+    "name": "To Do List",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ekhlakh-to-do-list.netlify.app/",
+      "code": "https://github.com/ekhlakhahmad/To-Do-List"
+    }
+  },
+  {
+    "name": "LPU ID Card Gen",
+    "desc": "All Task save for remember just like to do list web application",
+    "image": "linklist",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Arithmetic Calculator",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
