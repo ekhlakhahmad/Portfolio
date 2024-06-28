@@ -1,12 +1,12 @@
 [
   {
-    "name": "QR_Code_Gen",
-    "desc": "JavaScript QR Code Generator which will generate QR Code in few minutes on your requirements.",
+    "name": "Random Quote Gen",
+    "desc": "JavaScript Random Quotes Generator which will generate Quote in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://ekhlakh-qr-code-generator.netlify.app/",
-      "code": "https://github.com/ekhlakhahmad/QR-CODE-GENERATOR"
+      "view": "https://fej-quotes.netlify.app/",
+      "code": "https://github.com/ekhlakhahmad/Fej-Quotes"
     }
   },
   {
@@ -30,8 +30,8 @@
     }
   },
   {
-    "name": "LPU ID Card Gen",
-    "desc": "All Task save for remember just like to do list web application",
+    "name": "A1 Computer Classes Institute",
+    "desc": "Show Course Details and about of computer institute",
     "image": "linklist",
     "category": "basicweb",
     "links": {
@@ -40,8 +40,8 @@
     }
   },
   {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "name": "Food Shop Dummy",
+    "desc": "Basic Food shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
     "category": "basicweb",
     "links": {
